@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* Twitter: https://twitter.com/thomi40
+* Speaker Deck: https://speakerdeck.com/thomi40
+* Qiita: https://qiita.com/thomi40
+* note: https://note.com/thomi40
+
 <!--
 **thomi40/thomi40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
