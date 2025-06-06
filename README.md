@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Twitter: https://twitter.com/thomi40
+* X: https://x.com/thomi40
 * Speaker Deck: https://speakerdeck.com/thomi40
 * Qiita: https://qiita.com/thomi40
 * note: https://note.com/thomi40
